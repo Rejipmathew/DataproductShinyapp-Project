@@ -1,0 +1,15 @@
+---
+title: "Documentation"
+author: "RPM"
+date: "January 29, 2016"
+output: html_document
+
+## Hospital Salary Prediction Dashboard
+        This Shiny data product is based on a simulated normally distributed data set for predicting salary based on different job functions and years of experience in hospital setting.  
+        Source code can be viewd in git hub link.  
+        
+        The interactive dashboard allows you to compare salary compensation to
+        current compensation structures within a hospital job. It can be used to
+        prepare a fair salary offer for new candidates or in case of job promotions.
+        
+        
